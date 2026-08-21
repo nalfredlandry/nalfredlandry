@@ -73,3 +73,8 @@ I'm passionate about building scalable web applications and ensuring code qualit
 ---
 
 **⭐ If you find any of my projects useful, please give them a star!**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&lines=Full-Stack+Developer;QA+Analyst;Always+Learning)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=nalfredlandry.nalfredlandry)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nalfredlandry.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nalfredlandry)

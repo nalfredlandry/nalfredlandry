@@ -78,7 +78,7 @@ These update automatically as I commit, open PRs, and work on new repos — no m
 - **LinkedIn:** *(add your LinkedIn URL)*
 - **Portfolio:** *(add your portfolio site)*
 - **TikTok:** [@nalfredlandry](https://www.tiktok.com/@nalfredlandry)
-
+- **Instagram:** [@nalfredlandry](https://www.instagram.com/@nalfredlandry)
 ---
 
 ⭐ If you find any of my projects useful, please give them a star!

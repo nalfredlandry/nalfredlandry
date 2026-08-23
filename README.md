@@ -75,10 +75,11 @@ These update automatically as I commit, open PRs, and work on new repos — no m
 ## 📫 How to Reach Me
 
 - **Email:** [nalfredlandry.dev@gmail.com](mailto:nalfredlandry.dev@gmail.com)
-- **LinkedIn:** *(add your LinkedIn URL)*
+- **LinkedIn:** [@nalfredlandry](www.linkedin.com/in/nalfredlandry)
 - **Portfolio:** *(add your portfolio site)*
 - **TikTok:** [@nalfredlandry](https://www.tiktok.com/@nalfredlandry)
 - **Instagram:** [@nalfredlandry](https://www.instagram.com/@nalfredlandry)
+- **Medium:**  [@nalfredlandry](https://www.medium.com/@nalfredlandry)
 ---
 
 ⭐ If you find any of my projects useful, please give them a star!

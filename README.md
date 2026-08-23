@@ -79,7 +79,7 @@ These update automatically as I commit, open PRs, and work on new repos — no m
 - **Portfolio:** *(add your portfolio site)*
 - **TikTok:** [@nalfredlandry](https://www.tiktok.com/@nalfredlandry)
 - **Instagram:** [@nalfredlandry](https://www.instagram.com/nalfredlandry)
-- **Medium:** [@nalfredlandry](https://medium.com/@nalfredlandry)
+- **Medium:** [@n.alfredlandry](https://medium.com/@n.alfredlandry)
 - **Daily.Dev:** [@nalfredlandry](https://daily.dev/nalfredlandry)
 
 ⭐ If you find any of my projects useful, please give them a star!

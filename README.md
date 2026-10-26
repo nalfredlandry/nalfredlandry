@@ -1,6 +1,6 @@
 # Hi there, I'm Alfred 👋
 
-### Software Engineer | Full-Stack Developer | QA Analyst | Aspiring Entrepreneur
+### Software Engineer | Full-Stack Developer | QA Analyst |  Entrepreneur
 
 Passionate about building scalable web applications and ensuring code quality through rigorous testing.
 
